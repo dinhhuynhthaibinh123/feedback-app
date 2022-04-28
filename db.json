@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend 1"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "text": "This is feedback item 1 coming from the backend 2"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 1 coming from the backend 3"
+    },
+    {
+      "text": "Thai Binh Dep Trai Thanh Lich",
+      "rating": 10,
+      "id": 5
+    },
+    {
+      "text": "Dinh Huynh Tuyet Man",
+      "rating": 10,
+      "id": 6
+    }
+  ]
+}
